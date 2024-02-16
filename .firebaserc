@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ngbytes-fireauth-48eec": {
+      "hosting": {
+        "app": [
+          "ngbytes-fireauth-48eec"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ngbytes-fireauth-48eec"
+  }
+}
